@@ -1,6 +1,7 @@
-package me.skizzme.websocket;
+package test;
 
 import com.google.gson.JsonObject;
+import me.skizzme.websocket.Websocket;
 import me.skizzme.websocket.exception.NotConnectedException;
 import me.skizzme.websocket.handler.WebsocketHandler;
 import me.skizzme.websocket.handler.builtins.JsonHandler;
